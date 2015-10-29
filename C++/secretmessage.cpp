@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <math.h> 
+#include <math> 
 
 std::string encrypt(std::string message);
 
