@@ -5,8 +5,7 @@ int main() {
 	
 	std::string m, d;
 
-	std::cin >> m;
-	std::cin >> d;
+	std::cin >> m >> d;
 
 	std::string res = (m.length() >= d.length()) ? "go" : "no";
 
