@@ -1,0 +1,1 @@
+console.log(parseInt((parseInt(readline())).toString(2).split("").reverse().join(""), 2));
