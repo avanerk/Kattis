@@ -21,7 +21,7 @@ bool isSafe() {
 				if (x-z == diag) co[0]++; // diagonal
 				if (x+z == diagn) co[1]++; // diagonal
 				if (x == row) co[2]++; // horizontal
-				if (z == col) co[3]++;// verical
+				if (z == col) co[3]++; // vertical
 			}
 		}
 	}
